@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hospital</string>
+    <string name="fab_add">Add new item</string>
+</resources>
